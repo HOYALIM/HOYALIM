@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ho Lim 👋
 I like ML, Quant, Automation, Trading using AI
 <!--
 **HOYALIM/HOYALIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
