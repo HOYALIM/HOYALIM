@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like ML, Quant, Automation, Trading
+I like ML, Quant, Automation, Trading using AI
 <!--
 **HOYALIM/HOYALIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
