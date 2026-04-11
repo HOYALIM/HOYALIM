@@ -30,6 +30,6 @@ I'm a **Data Scientist & AI Engineer** based in California — Started as a Fina
 
 ### 📬 Find me
 
-🌐 [holime.me](https://holime.me)
-💼 [linkedin.com/in/holim007](https://linkedin.com/in/holim007)
-🐦 [@holim007](https://x.com/holim007)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=25)](https://linkedin.com/in/holim007)
+- [![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white&height=25)](https://x.com/MilesOverLines)
+- [![Personal Website](https://img.shields.io/badge/Personal%20Website-FF0000?style=flat-square&logo=google-chrome&logoColor=white&height=25)](https://holim.me)
