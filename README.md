@@ -1,6 +1,6 @@
 ### Hi, I'm Ho 👋
 
-I'm a **Data Scientist & AI Engineer** based in California — started as a Finance Bro in Investment Banking, now building with AI & ML.
+I'm a **Data Scientist & AI Engineer** based in California — Started as a Finance Bro in Investment Banking and evolving through roles in VC and Fintech, I am now a Data Scientist & AI Engineer driven by a deep passion for building with AI & ML.
 
 - 📈 Into **Systematic Trading** — quantitative strategies, signal research, and algo execution
 - 🤖 Excited about **Agentic AI** — LLM workflows, multi-agent systems, and AI-native tooling
