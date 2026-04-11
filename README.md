@@ -10,17 +10,6 @@ I'm a **Data Scientist & AI Engineer** based in California — Started as a Fina
 
 ---
 
-### 🛠 Things I've Built
-
-| Project | What it does |
-|---|---|
-| 🏃 garmin-personal-coach | Personal AI training coach using Garmin + Strava data _(WIP)_ |
-| 🦅 [tapog.ai](https://github.com/hoyalim/tapog.ai) | AI-powered browsing session manager |
-| 🧹 cleen _(private)_ | Chrome Extension — suspend inactive tabs, free your RAM |
-| 📊 [mortgage-inequality-explorer](https://github.com/hoyalim/mortgage-Inequality-Explorer) | HMDA data vis — mortgage access & race across 2018–2023 |
-
----
-
 ### 🤝 Open Source Contributions
 
 - 🦞 **[openclaw](https://github.com/openclaw)** — AI coding agent harness; contributed telemetry, gate resets, cron/session analytics
@@ -29,6 +18,18 @@ I'm a **Data Scientist & AI Engineer** based in California — Started as a Fina
 
 ---
 
+### 🛠 Things I've Built
+
+| Project | What it does |
+|---|---|
+| 🏃 [garmin-personal-coach](https://github.com/HOYALIM/garmin-personal-coach) | Personal AI training coach using Garmin + Strava data _(WIP)_ |
+| 🦅 [tapog.ai](https://github.com/hoyalim/tapog.ai) | AI-powered browsing session manager |
+| 🧹 cleen _(private)_ | Chrome Extension — suspend inactive tabs, free your RAM |
+
+---
+
 ### 📬 Find me
 
-🌐 [holime.me](https://holime.me) · 💼 [linkedin.com/in/holim007](https://linkedin.com/in/holim007)
+🌐 [holime.me](https://holime.me)
+💼 [linkedin.com/in/holim007](https://linkedin.com/in/holim007)
+🐦 [@holim007](https://x.com/holim007)
