@@ -1,16 +1,34 @@
-## Hi there, I'm Ho Lim 👋
-I like ML, Quant, Automation, Trading using AI
-<!--
-**HOYALIM/HOYALIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Ho 👋
 
-Here are some ideas to get you started:
+I'm a **Data Scientist & AI Engineer** based in California — started as a Finance Bro in Investment Banking, now building with AI & ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Into **Systematic Trading** — quantitative strategies, signal research, and algo execution
+- 🤖 Excited about **Agentic AI** — LLM workflows, multi-agent systems, and AI-native tooling
+- 🧩 Building **Chrome Extensions** that actually remove friction from your workflow
+- 🏃 Coaching myself with data — **Garmin + Strava** metrics and a custom AI coach
+- 🔮 Exploring **Saju (Korean fortune-telling)** meets modern AI
+
+---
+
+### 🛠 Things I've Built
+
+| Project | What it does |
+|---|---|
+| 🏃 garmin-personal-coach | Personal AI training coach using Garmin + Strava data _(WIP)_ |
+| 🦅 [tapog.ai](https://github.com/hoyalim/tapog.ai) | AI-powered browsing session manager |
+| 🧹 cleen _(private)_ | Chrome Extension — suspend inactive tabs, free your RAM |
+| 📊 [mortgage-inequality-explorer](https://github.com/hoyalim/mortgage-Inequality-Explorer) | HMDA data vis — mortgage access & race across 2018–2023 |
+
+---
+
+### 🤝 Open Source Contributions
+
+- 🦞 **[openclaw](https://github.com/openclaw)** — AI coding agent harness; contributed telemetry, gate resets, cron/session analytics
+- 🐙 **[oh-my-openagent](https://github.com/hoyalim/oh-my-codex)** — Hooks, agent teams & HUDs on top of Claude Code
+- 📈 **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Open source investment research platform
+
+---
+
+### 📬 Find me
+
+🌐 [holime.me](https://holime.me) · 💼 [linkedin.com/in/holim007](https://linkedin.com/in/holim007)
