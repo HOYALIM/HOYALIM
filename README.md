@@ -12,8 +12,8 @@ I'm a **Data Scientist & AI Engineer** based in California — Started as a Fina
 
 ### 🤝 Open Source Contributions
 
-- 🦞 **[openclaw](https://github.com/openclaw)** — AI coding agent harness; contributed telemetry, gate resets, cron/session analytics
-- 🐙 **[oh-my-openagent](https://github.com/hoyalim/oh-my-codex)** — Hooks, agent teams & HUDs on top of Claude Code
+- 🦞 **[openclaw](https://github.com/openclaw/openclaw)** — AI coding agent harness; contributed telemetry, gate resets, cron/session analytics
+- 🐙 **[oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — Hooks, agent teams & HUDs on top of Claude Code
 - 📈 **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Open source investment research platform
 
 ---
